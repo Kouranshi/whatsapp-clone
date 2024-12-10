@@ -1,10 +1,6 @@
 # WhatsApp Clone
 
 Um projeto com a intenção de clonar o aplicativo WhatsApp. Ele foi criado com Flutter e Dart utilizando o Firebase.
-Você pode se comunicar com qualquer pessoa que haja criado uma conta no aplicativo ( incluindo eu :D )!
-obs.: pode criar a conta sem medo, eu não possuo acesso à senha da sua conta, apenas posso ver seu e-mail! o firebase (que é da própria google) não dá permissão para que as pessoas tenham acesso à senha, etc.
-
-Tem bugs, mas é capaz de você nem se deparar com eles porque são só visuais e em pequenos detalhes.
 
 ## Getting Started
 
